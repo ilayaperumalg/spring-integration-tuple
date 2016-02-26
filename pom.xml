@@ -15,7 +15,6 @@
 		<java.version>1.7</java.version>
 		<spring.tuple.version>1.0.0.BUILD-SNAPSHOT</spring.tuple.version>
 		<spring.integration.version>4.2.4.RELEASE</spring.integration.version>
-		<spring.boot.version>1.3.2.RELEASE</spring.boot.version>
 	</properties>
 
 	<dependencies>
